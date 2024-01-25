@@ -1,0 +1,1 @@
+sybase ase is a db language. it is very good file for understanding
